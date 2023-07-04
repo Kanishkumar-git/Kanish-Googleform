@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI';
+    align-items: center;
+    text-decoration: solid;
+    margin: 0;
+    padding: 0;
+}
+table {
+    width: 800px;
+    height: 100px;
+    margin: auto;
+    font-size: 15px;
+    padding: 0;
+    border-collapse: collapse;
+    border-color: rgba(149, 153, 153, 0.795);
+}
+th{
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    background-color: rgba(14, 29, 99, 0.911)
+}
+td{
+    text-transform: uppercase;
+}
